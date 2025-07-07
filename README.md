@@ -23,7 +23,7 @@ A Mistborn-themed single-page app featuring:
 Built using vanilla JavaScript, JSON data handling, and Tailwind CSS & vanilla css.
 
 ## 🧪 Postman Screenshot
-![Postman Screenshot](assets/postman-img.png)
+![Postman Screenshot](assets/images/postman-img.png)
 
 ## 🌐 Live Site
 Will be deployed to GitHub Pages
