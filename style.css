@@ -1,0 +1,24 @@
+body {
+    background-color: lavenderblush;
+    body-font-family: 'Georgia', serif;
+    color: darkslategray;
+    padding: 2rem;
+    container-width: 80%;
+    h1 {color: darkslateblue;
+}
+    h2 {color: darkslategray;
+    }
+    p {font-size: 1.2rem;
+    }
+    ul {
+        list-style-type: square;
+        padding-left: 4rem;
+    }
+    a {
+        color: darkslateblue;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+}
