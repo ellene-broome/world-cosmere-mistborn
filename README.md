@@ -29,4 +29,4 @@ Built using vanilla JavaScript, JSON data handling, and Tailwind CSS & vanilla c
 Will be deployed to GitHub Pages
 
 ## 📌 GitHub Project Board
-[View Project Board Coming Soon]
+![Mistborn Project Board](assets/images/projectBoard.png)
