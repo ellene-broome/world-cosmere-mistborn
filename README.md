@@ -6,8 +6,8 @@ mistborn-capstone/
 ├── style.css
 ├── script.js
 ├── README.md
-└── postman/
-    └── postman-screenshot.png
+└── assets/
+    └── Images-postman-img.png
 
 # Mistborn Capstone Project
 
@@ -23,7 +23,7 @@ A Mistborn-themed single-page app featuring:
 Built using vanilla JavaScript, JSON data handling, and Tailwind CSS & vanilla css.
 
 ## 🧪 Postman Screenshot
-![Postman Screenshot](assets/images/postman-img.png)
+![Postman Screenshot](assets/images/postman.png)
 
 ## 🌐 Live Site
 Will be deployed to GitHub Pages
